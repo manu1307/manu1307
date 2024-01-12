@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=근손실을%20걱정하는%20개발자"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=굳은살%20개발자"/>
 
 ### Hi there 👋
 
