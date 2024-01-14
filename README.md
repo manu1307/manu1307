@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=굳은살%20개발자"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=철이의%20hub"/>
 
 ### Hi there 👋
 
