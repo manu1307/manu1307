@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=철이의%20hub"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Chul's%20hub"/>
 
 ### Hi there 👋
 
