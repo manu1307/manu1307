@@ -11,7 +11,7 @@
 
 ###### Contact
 <a href="https://www.instagram.com/iron_castle__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100006778054667"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100006778054667"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
 ###### Tech
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
