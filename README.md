@@ -10,14 +10,43 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manu1307)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manu1307&hide=contribs,prs&show_icons=true&theme=merko)
 
+<br/>
+
+### Education
+<ul>
+<li>Korea University (Seoul), Electrical Engineering | 2019.03 ~ </li>
+<li>Whimoon High School | 2014.03 ~ 2017.02 </li>
+</ul>
+
+<br/>
+
+### Experience
+
+#### 에코카우 (Ecocow) Frontend Developer | 2022.09 ~ 2022.12
+
+<ul>
+	<li>Develop company design system and admin web page</li>
+</ul>
 
 
+#### 엔씨소프트 (NC soft) Frontend Developer (Intern) | 2024.03 ~
 
-##### Contact
+<ul>
+	<li>Develop ETCD tool</li>
+</ul>
+
+
+<br/>
+
+### Contact
 <a href="https://www.instagram.com/iron_castle__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<br/>
 <a href="https://www.facebook.com/profile.php?id=100006778054667"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<br/>
 
-##### Tech
+<br/>
+
+### Tech
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +55,6 @@
 ![js](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 	
-<br/>
 <br/>
 
 
