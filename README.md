@@ -35,6 +35,7 @@
 	<li>Develop ETCD tool</li>
 </ul>
 
+#### SK Telecom Devocean Young 3기 | 2024.03 ~
 
 <br/>
 
